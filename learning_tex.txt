@@ -1,3 +1,6 @@
-test to learn git
+atest to learn git
 Matthias and Johannes
 Schön und Häßlich
+
+dieser text soll danach verschwinden
+das hier soll auch nicht bleiben
